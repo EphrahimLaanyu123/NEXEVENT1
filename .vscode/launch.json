@@ -1,0 +1,20 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open pageass1.html",
+            "file": "c:\\Users\\ADMIN\\Downloads\\pageass1.html"
+        },
+        {
+            "type": "msedge",
+            "name": "http://127.0.0.1:3002/c:/Users/ADMIN/Downloads/pageass1.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3002/c:/Users/ADMIN/Downloads/pageass1.html"
+        }
+    ]
+}
